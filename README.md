@@ -39,7 +39,7 @@ Esse projeto é o Projeto Stage 03 - Iniciando Grid ministrado pela <a href="htt
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK]([Projeto-Explorer-(Community)?node-id=1%3A754&mode=dev](https://www.figma.com/file/l3308FXISdC1q0eJKDPFO3/Galaxies-%E2%80%A2-Projeto-Explorer-(Community)?node-id=0%3A755&mode=dev)). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK][Projeto-Explorer-(Community)?node-id=1%3A754&mode=dev](https://www.figma.com/file/l3308FXISdC1q0eJKDPFO3/Galaxies-%E2%80%A2-Projeto-Explorer-(Community)?node-id=0%3A755&mode=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
